@@ -1,0 +1,6 @@
+- BUG #1: was missing 'await' keyword for User.authenticate in the /login route
+- BUG #2: was missing the 'throw' keyword in User.get method on the User model
+- BUG #3: was missing 'await' keyword for User.delete in the /delete route
+- BUG #4: was missing token verification logic in middleware function, authUser
+- BUG #5:
+- BUG #6:
